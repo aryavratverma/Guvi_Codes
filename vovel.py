@@ -3,7 +3,7 @@ l1=["b","c","d","f","g","h","i","j","k","l","m","n","p","q","r","s","t","v","w",
 a=input()
 
 if a in l:
-    print("Vovel")
+    print("Vowel")
 elif a in l1:
     print("Consonant")
 else:
