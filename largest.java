@@ -23,9 +23,9 @@ System.out.println(a);
 	
         System.out.println(b);
 	 
-   }else{
+   }else if(c>a && c>b){
 	       
  System.out.println(c);
 	  
-  }
+  }else{System.out.println("-1");}
 	}}
